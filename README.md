@@ -1,5 +1,5 @@
 # Slashmark-Intermediate-Task1
-### ChatBot
+### ChatBotMaster
 #### Overview
 This project aims to build an intelligent chatbot using natural language processing (NLP) techniques. The chatbot will be able to understand user queries, provide relevant responses, and engage in meaningful conversations.
 
